@@ -1,4 +1,4 @@
-# RsWC
+# rswc
 
 A Command line word count tool written in rust.
 
@@ -49,7 +49,7 @@ If no `OPTIONS` are provided, the tool will always print the count in the follow
 ```shell
 git clone https://github.com/nobletk/rswc
 # then build the binary
-make build
+cargo build
 ```
 
 ### Example usage
